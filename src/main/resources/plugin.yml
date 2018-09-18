@@ -1,0 +1,11 @@
+name: BungeeBans
+version: 0.1
+main: com.braddevans.bungeebans.BungeeBans
+prefix: BungeeBans
+load: STARTUP
+authors: [braddevans]
+description: bans a player across a multiserver bungeecord or seperate server network
+database: true
+commands:
+  bungeebans:
+    description: ban help
